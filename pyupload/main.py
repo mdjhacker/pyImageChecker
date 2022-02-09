@@ -98,7 +98,7 @@ if __name__ == "__main__":
                                                Author:HuangYu Version:1.0
     \033[0m ''')
 
-    input('请将图片以非汉字命名，放到data文件夹下，按任意键开始......')
+    input('请将图片以非汉字命名，放到data文件夹下，双击回车开始......')
 
     upload()
     # local_save()
