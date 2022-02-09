@@ -1,5 +1,6 @@
 # PyImageChecker
 [![Build Status](https://travis-ci.com/yukinotenshi/pyupload.svg?branch=master)](https://travis-ci.com/yukinotenshi/pyupload)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 A simple CLI tool to upload file with direct link
 

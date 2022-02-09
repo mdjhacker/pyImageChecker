@@ -43,10 +43,11 @@ def upload():
 
 
 def local_save():
-    s = shelve.open('test_shelf.db')  #
+    s = shelve.open('./src/local_save.db')  #
     try:
         s['kk'] = {'int': 10, 'float': 9.5, 'String': 'Sample data'}
         s['MM'] = [1, 2, 3]
+        s['api_key'] = api_key
     finally:
         s.close()
 
@@ -97,7 +98,7 @@ if __name__ == "__main__":
                                                Author:HuangYu Version:1.0
     \033[0m ''')
 
-    # api_key = input('请输入Api_key:')
+    input('请将图片以非汉字命名，放到data文件夹下，按任意键开始......')
 
-    # upload()
-    local_save()
+    upload()
+    # local_save()
