@@ -1,4 +1,4 @@
-# PyUpload
+# PyImageChecker
 [![Build Status](https://travis-ci.com/yukinotenshi/pyupload.svg?branch=master)](https://travis-ci.com/yukinotenshi/pyupload)
 
 A simple CLI tool to upload file with direct link
