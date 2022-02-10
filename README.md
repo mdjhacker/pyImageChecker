@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">PyImageChecker<br>高校网络图像查重系统</h1>
+<h2 align="center">PyImageChecker<br>高校网络图像查重系统</h2>
 
 
 <p align="center">
