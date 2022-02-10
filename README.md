@@ -31,11 +31,13 @@
 - [x] API持久化储存
 ## 使用方法
 - [申请API](https://saucenao.com/user.php)
-- 本地安装
+- [下载安装文件](https://github.com/mdjhacker/pyImageChecker/releases)
+- 将API输入填写框，需要鉴别的图像放于`data`文件夹，鉴别后的表格将生成于`src`目录，命名为`similarity.csv`
+- python二次开发
     ```
     pip install -r requirements.txt
     
-    cd pyupload
+    cd PyImageChecker
     
     python main.py
     ```
