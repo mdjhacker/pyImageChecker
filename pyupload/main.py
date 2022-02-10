@@ -1,6 +1,5 @@
-# -*- encoding: utf-8 -*-
+# -*- encoding: utf-8 --
 import time
-import shelve
 from pyupload.uploader import *
 from PicImageSearch import SauceNAO
 import os
