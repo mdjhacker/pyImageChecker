@@ -1,10 +1,12 @@
 <p align="center">
-  <a href="https://github.com/Decimation/SmartImage">
-    <img src="/assert/img_2.png" alt="Logo" width="90" height="90">
+  <a href="https://github.com/mdjhacker/pyImageChecker">
+    <img src="/assert/img_2.png" alt="Logo" width="100" height="100">
   </a>
+</p>
 
 <h1 align="center">PyImageChecker</h1>
-  
+
+
 <p align="center">
 <a href="https://github.com/mdjhacker/pyImageChecker"><img alt="GitHub license" src="https://img.shields.io/github/license/mdjhacker/pyImageChecker"></a>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
@@ -12,7 +14,11 @@
 </p>
 
 ## DEMO
-    
+<p align="center">
+<img src="img_1.png" alt="" width="250" height="150">
+<img src="/assert/3333.png" alt="" width="250" height="150">
+</p>
+
 ## 编写理由
 高校举办的图片竞选类活动中，存在部分人员直接利用网络图片顶替。传统的人力筛选模式不利于大量图像的筛选。因此利用python进行批量审查，推动原创风气。
 
