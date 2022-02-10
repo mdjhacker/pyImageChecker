@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://github.com/mdjhacker/pyImageChecker">
-    <img src="/assert/img_2.png" alt="Logo" width="100" height="100">
+    <img src="/assert/img_2.png" alt="Logo" width="150" height="150">
   </a>
 </p>
 
 <h1 align="center">PyImageChecker<br>高校网络图像查重系统</h1>
-
 
 <p align="center">
 <a href="https://github.com/mdjhacker/pyImageChecker"><img alt="GitHub license" src="https://img.shields.io/github/license/mdjhacker/pyImageChecker"></a>
