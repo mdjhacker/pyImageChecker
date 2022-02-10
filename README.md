@@ -5,8 +5,6 @@
 </p>
 
 <h2 align="center">PyImageChecker<br>高校网络图像查重系统</h2>
-
-
 <p align="center">
 <a href="https://github.com/mdjhacker/pyImageChecker"><img alt="GitHub license" src="https://img.shields.io/github/license/mdjhacker/pyImageChecker"></a>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
