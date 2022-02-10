@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Decimation/SmartImage">
-    <img src="/img_1.png" alt="Logo" width="90" height="90">
+    <img src="/assert/img_2.png" alt="Logo" width="90" height="90">
   </a>
 
 <h1 align="center">PyImageChecker</h1>
