@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">PyImageChecker</h1>
+<h1 align="center">PyImageChecker<br>高校网络图像查重系统</h1>
 
 
 <p align="center">
@@ -28,6 +28,7 @@
 ## 已实现功能
 - [x] 图片重复率查询
 - [x] 重复率表格导出
+- [x] API持久化储存
 ## 安装方法
 ```
 pyupload .gitignore --host=catbox
