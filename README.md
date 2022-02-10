@@ -7,8 +7,10 @@
 <h2 align="center">PyImageChecker<br>高校网络图像查重系统</h2>
 <p align="center">
 <a href="https://github.com/mdjhacker/pyImageChecker"><img alt="GitHub license" src="https://img.shields.io/github/license/mdjhacker/pyImageChecker"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-v3.7-blue" alt="python" /></a>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 <a href="https://www.neau.edu.cn/"><img src="https://img.shields.io/badge/school-neau-brightgreen" alt="school"/></a>
+
 </p>
 
 ## DEMO
@@ -27,12 +29,16 @@
 - [x] 图片重复率查询
 - [x] 重复率表格导出
 - [x] API持久化储存
-## 安装方法
-```
-pyupload .gitignore --host=catbox
-
-[1674/1674] bytes |====================>|Your link : https://files.catbox.moe/e03ygs.gitignore
-```
+## 使用方法
+- [申请API](https://saucenao.com/user.php)
+- 本地安装
+    ```
+    pip install -r requirements.txt
+    
+    cd pyupload
+    
+    python main.py
+    ```
 
 ## 鸣谢
 ![img.png](assert/img.png)
