@@ -1,3 +1,5 @@
 /PyImageChecker/build/
 /PyImageChecker/dist/
 /venv/
+/pyupload/build/
+/pyupload/dist/
